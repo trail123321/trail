@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PhonePe</string>
+    
+    <!-- Navigation -->
+    <string name="title_home">Home</string>
+    <string name="title_stores">Stores</string>
+    <string name="title_insurance">Insurance</string>
+    <string name="title_wealth">Wealth</string>
+    <string name="title_history">History</string>
+    
+    <!-- Home Screen -->
+    <string name="greeting">Hi there!</string>
+    <string name="bank_account">Bank Account</string>
+    <string name="bank_balance">₹52,345.67</string>
+    <string name="upi_id">1234567890@ybl</string>
+    <string name="tag_line">India\'s Payment App</string>
+    
+    <!-- Action Buttons -->
+    <string name="scan_and_pay">Scan &amp; Pay</string>
+    <string name="send_money">Send Money</string>
+    <string name="receive_money">Receive Money</string>
+    <string name="mobile_recharge">Mobile Recharge</string>
+    <string name="dth">DTH</string>
+    <string name="electricity">Electricity</string>
+    <string name="credit_card">Credit Card</string>
+    <string name="rent_payment">Rent Payment</string>
+    
+    <!-- Recent Transactions -->
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="view_all">View All</string>
+    <string name="no_transactions">No transactions yet</string>
+    
+    <!-- QR Code Scanning -->
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="qr_from_gallery">Upload from Gallery</string>
+    <string name="flash_on">Flash On</string>
+    <string name="flash_off">Flash Off</string>
+    <string name="scanning_instructions">Align the QR code within the frame to scan</string>
+    
+    <!-- Payment -->
+    <string name="pay_to">Pay to</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="amount_hint">₹0</string>
+    <string name="rupee_symbol">₹</string>
+    <string name="add_note">Add a Note</string>
+    <string name="pay_now">Pay Now</string>
+    
+    <!-- UPI -->
+    <string name="enter_upi_pin">Enter UPI PIN</string>
+    <string name="confirm_upi_pin">Verify PIN</string>
+    <string name="forgot_upi_pin">Forgot UPI PIN?</string>
+    
+    <!-- Transaction Status -->
+    <string name="transaction_successful">Payment Successful!</string>
+    <string name="transaction_failed">Payment Failed</string>
+    <string name="payment_to">Payment to %s</string>
+    <string name="transaction_id">Transaction ID: %s</string>
+    <string name="amount_paid">Amount Paid: ₹%s</string>
+    <string name="paid_using">Paid using %s</string>
+    <string name="paid_on">Paid on %s</string>
+    <string name="close">Close</string>
+    <string name="share_receipt">Share Receipt</string>
+    
+    <!-- Bank Account -->
+    <string name="account_holder">Rahul Sharma</string>
+    <string name="account_number">XXXX XXXX 1234</string>
+    <string name="bank_name">HDFC Bank</string>
+    <string name="account_type">Savings Account</string>
+    
+    <!-- Permissions -->
+    <string name="camera_permission_required">Camera permission is required for QR code scanning</string>
+    <string name="storage_permission_required">Storage permission is required for uploading QR code from gallery</string>
+    
+    <!-- Errors -->
+    <string name="invalid_qr_code">Invalid QR code</string>
+    <string name="network_error">Network error. Please try again</string>
+    <string name="invalid_amount">Please enter a valid amount</string>
+    <string name="invalid_upi_pin">Invalid UPI PIN</string>
+</resources> 
